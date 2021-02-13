@@ -10,10 +10,10 @@
  
 <br><br>
 
-## Dankook University. Computer Science. Software Engineering.
 
 
-📌 This is a place for StarLab Project in Dankook University.
+## 📌 This is a place for StarLab Project in Dankook University.
+- Dankook University. Computer Science. Software Engineering. <br>
 - Mobile Lab. 4STUP. <br>
 - Professor : Lee Jae Dong <br>
 - Assistant : Kim Hee Ju (Email : wpsl94@naver.com) <br>
@@ -23,7 +23,7 @@
 
 ### StarLab Projec,t
 - 과제 참여 기간 : 2021.04.01 ~ 2021.12.31
-[참고](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD202100000022)
+[IITP 사업 안내](https://ezone.iitp.kr/common/anno/02/form.tab?PMS_TSK_PBNC_ID=PBD202100000022)
 
 ## Environment
 -
