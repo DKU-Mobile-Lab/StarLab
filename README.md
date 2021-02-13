@@ -6,11 +6,12 @@
 <div align="center" style="display:flex;"><img width="333" alt="제목 없음" src="https://ifh.cc/g/sjpLLk.jpg"></div>
 
 <div align="center">
+  </div>
+
 📌 This is a place for StarLab Project in Dankook University.
 - Mobile Lab. 4STUP. <br>
 - Professor : Lee Jae Dong <br>
 - Assistant : Kim Hee Ju (Email : wpsl94@naver.com) <br>
-</div>
 
 <br><br>
 
